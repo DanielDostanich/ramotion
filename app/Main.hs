@@ -22,7 +22,7 @@ main = do
   report "Task 7: 10001st prime: " task7
   report "Task 8: Largest product in a series: " task8
   report "Task 9: Special Pythagorean triplet: " task9
-  report "Task 10: Summation of primes: " task10
+  report "Task 10: Lattice paths: " task10
 
 
 
